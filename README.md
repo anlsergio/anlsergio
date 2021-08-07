@@ -1,4 +1,6 @@
-## Hi there, welcome to my Github profile!
+### Hi there, I'm Anderson. Welcome to my profile!
+
+<br />
 
  <div>
   <a href="https://github.com/anlsergio">
