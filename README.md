@@ -1,4 +1,4 @@
-### Hi there, I'm Anderson. Welcome to my profile!
+### Hi there. Welcome to my profile!
 
 <br />
 
