@@ -18,6 +18,4 @@
   <a href="https://www.linkedin.com/in/anderson-l-sergio-25a29692" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:anderson.als04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/anlsergio/anlsergio/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
