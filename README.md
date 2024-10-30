@@ -1,7 +1,3 @@
-### Hi there. Welcome to my profile!
-
-<br />
-
 ### My current tech stack, in case you are wondering
 
 <div style="display: inline_block"><br>
